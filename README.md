@@ -1,4 +1,4 @@
 # cppp
-My random C++ project
+My random C++ projects
 
 CPPP = C++ Projects
