@@ -1,2 +1,2 @@
 check:
-      g++ ./roulette.cpp -o roulette
+        g++ ./roulette.cpp -o roulette
